@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "806896532286",
+    "project_id": "kidzlim",
+    "storage_bucket": "kidzlim.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806896532286:android:2b2f0085c72ffaef684a6f",
+        "android_client_info": {
+          "package_name": "com.kidzlim.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806896532286-ma134atdbg5a6mu68ikqijn3nuj13ffd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_ibFYR9WiiVSwhc6ppi1qeR3Q71U_VTo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806896532286-ma134atdbg5a6mu68ikqijn3nuj13ffd.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "806896532286-cnks9sbkq3jhoveupibdoek3bhhb5lm8.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kidzlim.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
